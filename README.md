@@ -1,2 +1,3 @@
-# adapter-go
-SvelteKit golang adapter
+# @ugurkorkmaz/sveltekit-go
+
+SvelteKit apps that generates a standalone go server.
